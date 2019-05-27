@@ -212,4 +212,6 @@ yandex.net,imap.yandex.com,993,smtp.yandex.com,587
 yandex.ru,imap.yandex.com,993,smtp.yandex.com,587
 yandex.ua,imap.yandex.com,993,smtp.yandex.com,587
 zoho.com,imap.zoho.com,993,smtp.zoho.com,465
-
+wilywilyfox.com,mail.wilywilyfox.com,993,mail.wilywilyfox.com,587
+mutnt.io,mail.mutnt.io,993,mail.mutnt.io,587
+simedis.com,mail.simedis.com,993,mail.simedis.com,587
